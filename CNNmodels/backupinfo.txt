@@ -28,25 +28,5 @@ bnn
 
 
 more channel
-
-
-
-
-
-9/7 选课，no relu6 but binary activation in blocks. why 3 make it better?
-
-
-1 lab section
-1 discussion section
-
-
-
-9/16 PV phone call
-	furniture?(bed, desk)
-	proof of payment if I paid it using zot account online
-	parking lots or gerage? how does them been arranged
-	do I need contact with apartment mate now?
-	previously sent your lease? (is it referr to the docu sign?)
-	how does the room assigned? first come first choose?
 	
 	
